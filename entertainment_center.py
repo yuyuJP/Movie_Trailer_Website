@@ -44,3 +44,4 @@ movies = [toy_story, avatar, wolf_of_wall_street,
 
 if __name__ == '__main__':
     fresh_tomatoes.open_movies_page(movies)
+    
